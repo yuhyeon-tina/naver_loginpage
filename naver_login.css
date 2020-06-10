@@ -53,7 +53,7 @@ line-height: 36px;
 }
 
 .login dt input[id="logchk_id"] + label:before {
-background: url(checkd_off.png) no-repeat center;
+background: url(checkd_off.PNG) no-repeat center;
 content: "";
 display: inline-block;
 margin : 0 5px 0 0;
@@ -64,7 +64,7 @@ vertical-align: -5px;
 }
 
 .login dt input[id="logchk_id"]:checked + label:before {
-background: url(checkd_on.png) no-repeat;
+background: url(checkd_on.PNG) no-repeat;
 }
 
 .login dt input[id="chkip_id"] {
