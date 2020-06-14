@@ -78,7 +78,7 @@ line-height: 36px;
 }
 
 .login dt input[id="chkip_id"] + label:after {
-background: url(ch_on.png) no-repeat center;
+background: url(ch_on.PNG) no-repeat center;
 content: "";
 display: inline-block;
 margin : 0 0 0 5px;
@@ -89,7 +89,7 @@ vertical-align: -5px;
 }
 
 .login dt input[id="chkip_id"]:checked + label:after {
-background: url(ch_off.png) no-repeat center;
+background: url(ch_off.PNG) no-repeat center;
 }
 
 .login button {
